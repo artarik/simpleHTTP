@@ -5,6 +5,6 @@ Simple http client-server app with docker-compose
  Returned a index.html
 ## Client 
  same as server
- ![](screenshot7.png)
+ ![](Screenshot_7.png)
 
  
